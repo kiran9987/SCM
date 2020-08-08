@@ -1,4 +1,5 @@
 #!/bin/bash
+#This program breaks after 5 iterations
 valid=true
 count=1
 while [ $valid ]
