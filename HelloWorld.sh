@@ -5,6 +5,7 @@ count=1
 while [ $valid ]
 do
 echo $count
+echo "This is code change for August-Release"
 if [ $count -eq 5 ];
 then
 break
